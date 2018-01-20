@@ -1,0 +1,7 @@
+pt-BR:
+  api_errors:
+    render_unprocessable_entity: Não foi possivel processar a requisiçao, verificar os dados abaixo
+    render_not_found: Sua busca não obteve resultados
+    render_forbidden: Sua conta foi desativada, entre em contato com a equipe Rango Diario
+    render_unauthorized: Algo deu errado, verifique suas credenciais
+    render_bad_request: Verifique sua requisição
